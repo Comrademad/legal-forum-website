@@ -15,12 +15,9 @@ A full-stack discussion forum where people can ask legal questions and get answe
 
 Next.js · React · TypeScript · Tailwind CSS · Supabase · PostgreSQL
 
-## Run locally
+## Source
 
-```bash
-npm install
-npm run dev
-```
+The production source is maintained privately. The live site above is the public demo.
 
 ## About
 
